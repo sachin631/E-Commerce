@@ -1,0 +1,30 @@
+css
+1>tailwind css
+2>background image overlay     //mix-blend-overlay//bg color is come upon the image
+3>grid  //to adjust the  div or box
+4>flex box //to adjust the content inside div or box
+5>background gardient 
+6>responsive using md,lg,sm break point
+7>responsive navbar //using usestate hokk
+8>dynamic change of css using use state and useReducer
+
+
+React
+1>use of react router dom to navigation 
+2>reusable component
+3>navbar open close toggle button using useState hook
+4>form data post using formspree liberary
+5>login logout functionality using Aut0 hook or liberary.
+6>formspree react liberary // to provide functionality to the form
+7>react icon liberarry // to add icons
+8>createcontext api and hook to mange the data
+9>custom hook to acces usecontext again and again
+9>axios to fecth api
+10>useReducers hook to maintain the state //use same api by d/f method at d/f components
+11>Intl.NumberFormat(en_IN,style={},cureency=""..) //to main format of current acc. to country
+12>useprams hook to to open diifernt api location on each click
+13>loading page untial data of api is not found 
+14>color picker using useState hoook
+15> star rating using from method of js by creating array
+16>conditional rendering
+
